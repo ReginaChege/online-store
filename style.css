@@ -1,0 +1,46 @@
+.first{
+    background-image: url(./mtush.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+}
+.navigation{
+    text-decoration: none;
+    text-align: center;
+    
+}
+.type1{
+display: inline-flex;
+}
+.image{
+    display: flex;
+}
+.image1{
+display: flex;
+}
+.pic2{
+    width: 100px ;
+}
+.heading1{
+    text-align: center;
+    margin-top: 20%;
+}
+button{
+    border-radius: 20px;
+    margin-left: 50%;
+    color: blue;
+    padding: 15px;
+}
+.heading2{
+    text-align: center;
+}
+.trouser2{
+    display: flex;
+}
+.type{
+    padding: 20px;
+}
+.span{
+margin-left: 20px;    
+}
